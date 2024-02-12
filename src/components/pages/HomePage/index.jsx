@@ -1,4 +1,4 @@
-//#region > Imports
+i//#region > Imports
 //> React
 // Contains all the functionality necessary to define React components
 import React from "react";
@@ -62,14 +62,19 @@ class HomePage extends React.Component {
                         alt="mdbreact-logo"
                         className="pr-2 pl-2"
                       />
-                      Template App
-                    </strong>
+                      Zuko Luvalo 
+ 
+</br>
+portfolio 
+
+
+                  </strong>
                   </h2>
                   <MDBRow />
-                  <p>React Bootstrap with Material Design</p>
+                  <p>Contact</p>
                   <p className="pb-4">
-                    This application shows the actual use of MDB React
-                    components in the application.
+                   experience 
+                   
                   </p>
                   <MDBRow className="d-flex flex-row justify-content-center row">
                     <a
@@ -80,31 +85,32 @@ class HomePage extends React.Component {
                     >
                       <MDBIcon icon="graduation-cap" className="mr-2" />
                       <span className="font-weight-bold">
-                        Official Documentation
+                       r
                       </span>
                     </a>
                   </MDBRow>
                 </MDBCardBody>
               </MDBCol>
+education 
             </MDBRow>
           </MDBFreeBird>
           <MDBContainer>
             <MDBRow>
               <MDBCol md="12" className="mt-4">
                 <h2 className="text-center my-5 font-weight-bold">
-                  Why is it so great?
+                  experience 2
                 </h2>
                 <p className="text-center text-muted mb-1">
-                  Google has designed a Material Design to make the web more
-                  beautiful and more user-friendly.
+                  
+                  experience 3
                 </p>
                 <p className="text-center text-muted mb-1">
-                  Twitter has created a Bootstrap to support you in faster and
-                  easier development of responsive and effective websites.
+                  
+                  experience 4
                 </p>
                 <p className="text-center text-muted">
-                  We present you a framework containing the best features of
-                  both of them - Material Design for Bootstrap.
+                  
+                  experience 5
                 </p>
                 <hr className="my-5" />
                 <MDBRow id="categories" className="justify-content-center">
